@@ -1,2 +1,2 @@
-rootProject.name = "Board"
+rootProject.name = "BoardDIO"
 
